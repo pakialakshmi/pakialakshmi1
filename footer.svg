@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="sd-foot-title">
+  <title id="sd-foot-title">Thanks for stopping by</title>
+  <defs>
+    <linearGradient id="sd-foot-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#431126"/>
+      <stop offset="0.5" stop-color="#1B0B12"/>
+      <stop offset="1" stop-color="#431126"/>
+    </linearGradient>
+    <linearGradient id="sd-foot-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <clipPath id="sd-foot-clip"><rect width="1200" height="120" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#sd-foot-clip)">
+    <rect width="1200" height="120" fill="url(#sd-foot-bg)"/>
+    <path d="M -300 88 q 75 -14 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0" fill="none" stroke="url(#sd-foot-line)" stroke-width="1.5" stroke-opacity="0.85"><animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="14s" repeatCount="indefinite"/></path>
+    <path d="M -300 92 q 75 -10 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0" fill="none" stroke="url(#sd-foot-line)" stroke-width="1.5" stroke-opacity="0.5"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="20s" repeatCount="indefinite"/></path>
+    <path d="M -300 96 q 75 -7 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0" fill="none" stroke="url(#sd-foot-line)" stroke-width="1.5" stroke-opacity="0.3"><animateTransform attributeName="transform" type="translate" from="0 0" to="300 0" dur="28s" repeatCount="indefinite"/></path>
+    <text x="600" y="46" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="12" letter-spacing="5" fill="#E5B5C7" opacity="0.85">THANKS FOR STOPPING BY</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="119" rx="16" fill="none" stroke="#C77B9B" stroke-opacity="0.2"/>
+</svg>
